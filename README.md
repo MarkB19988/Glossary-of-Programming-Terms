@@ -22,8 +22,9 @@
   
   ###### Event Driven Paradigm
    
-  Object oriented programming is the idea/concept of using objects that can contain data in the form of fields and code in the form of methods. A key feature of objects is that they can aceess and edit the data fields of other objects that they are linked to.
+  Object oriented programming is the idea/concept of using objects that can contain data in the form of fields and code in the form of methods. A key feature of objects is that they can aceess and edit the data fields of other objects that they are linked 
   
+  ##### 3. Debugging Process
  
     
  
