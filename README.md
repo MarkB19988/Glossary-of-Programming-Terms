@@ -25,6 +25,10 @@
   Event Driven programming is idea/concept that the program will run by recting to user inputs. It cna react to different kinds of input, like a button click, choosing from a drop down list, entering text into a text box, and many other kinds of inputs.
   
   ##### 3. Debugging Process
+  
+  In software development, debugging is the act of locating and fixing any errors in your code. Debugging is a key aspect of software testing and is an essential part of software development in general. The process of debugging starts as soon as the fist lines of code are written and continues to grow as more code is written and begins to take the form of a full software program. In a large program that has thousands of lines of code, the process of debugging can be made simpler and quicker by using strategies such as unit tests, code reviews and pair programming.
+
+
  
     
  
