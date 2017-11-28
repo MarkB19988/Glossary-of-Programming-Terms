@@ -10,8 +10,8 @@
   Procedural programming is the idea/concept of using procedures. A procedure (also knows as a routine) is a set of commands that can be called from any point in the program (including being called from other procedures)
   
   Procedural programming is very common to see, especially in larger projects as it has the following benefits:
-    * Re-Using sections of code without re-typing it
-    * Easy to follow the structure and logic of the program
-    * The Code is easier to edit and maintain
+  * Re-Using sections of code without re-typing it
+  * Easy to follow the structure and logic of the program
+  * The Code is easier to edit and maintain
     
  
