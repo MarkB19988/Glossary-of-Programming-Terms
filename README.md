@@ -34,5 +34,11 @@
   
   Another advantage of using an IDE is that most IDE's have a way to run your code built into the software itself, this can save time on having to run your code in another program.
  
+  ##### 5. Why Coding Standards Are Important
+  
+  Coding standards refer to the different ways in which you can wirte code that doesn't impact how the code itself runs, coding standards are cosmetic only. 
+  
+  As a team, using the same coding standard is important to keep your code consistent.
+  
     
  
