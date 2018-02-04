@@ -40,5 +40,14 @@
   
   As a team, using the same coding standard is important to keep your code consistent.
   
+  ##### 6. The Process of Building an Application
+  
+  ###### Step 1. Assemble a team (or decide to work alone)
+  Firstly you must decide on who will be working with you on this project, make phonecalls or arange meetings with a designer or a developer and try and get them on board. Alternatively, you can chose to undertake the project alone, but be aware that it will be a lot of work.
+  
+  ###### Step 2. Wireframing
+  Wireframing is a rough visual idea of what your app will look like. Each wireframe sketch should show 
+  
+  
     
  
