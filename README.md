@@ -49,7 +49,19 @@
   Wireframing is a rough visual idea of what your app will look like. Each wireframe sketch should show what will happen on every possible screen/scene of your app and what interactions could be had (e.g. arrows to show something can move across the screen)
   
   ###### Step 3. Design
+  Next you must create solid, final design documentation and conecpt art that will clearly explain and show the features the app will have. Concept images should be as close to how you want the app to look as possible. In your documentation you can talk about different colours, fonts, features ect.
   
+  ###### Step 4. Development
+  Development is where you make your app. In the development stage any mistakes that arise could be very costly, both in terms of time and money, so having a clear plan and design before hand is critical.
+  
+  ###### Step 5. Testing
+  Testing is important to make sure that you havent left any bugs or errors in your app and that it works as intended. Testing can also be done along side development to correct any errors as they surface but it is always good to do a final 'beta test' before realease to make sure the whole game works correctly
+  
+  ###### Step 6. Launch
+  Once all of the above has been completed you can go ahead an release your app on your chosen platform. Be aware that some platforms may have fees for putting an app on the store.
+  
+  ###### Step 7. Post Launch Support
+  After launch is important to collect regular feedback from your users so you can fix any bugs that arise or introduce new features that are highly requested.
   
     
  
