@@ -46,7 +46,9 @@
   Firstly you must decide on who will be working with you on this project, make phonecalls or arange meetings with a designer or a developer and try and get them on board. Alternatively, you can chose to undertake the project alone, but be aware that it will be a lot of work.
   
   ###### Step 2. Wireframing
-  Wireframing is a rough visual idea of what your app will look like. Each wireframe sketch should show 
+  Wireframing is a rough visual idea of what your app will look like. Each wireframe sketch should show what will happen on every possible screen/scene of your app and what interactions could be had (e.g. arrows to show something can move across the screen)
+  
+  ###### Step 3. Design
   
   
     
