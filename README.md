@@ -73,6 +73,10 @@
   ###### Step 2. Compilation
   After the code is written it must be compiled. Compiling is the process of converting the programs code (the source code) into another programming laguage (the target language). This is usually, but not always, the process of turning high level code like a program written in C++ into low level code, most commonly machine code.
   
-  ###### Step 3.
+  ###### Step 3. Invoke (Load into Memory)
+  Once the program has been converted to machine code, it is then alocated memory. This process is handled by the operating system that determins how much memory the program needs.
+  
+  ###### Step 4. Execution
+  Once all of the above steps have been completed, the computer can finally run the program. Each instruction is now in machine code that the computer can read. Each instruction triggers thousands of simple actions on the executing machine that culminate to do what the program was written for.
   
  
