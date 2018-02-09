@@ -65,8 +65,14 @@
   
   ##### 7. What Is The Process from Writing Code to Execution
   
+  After you write your code, there are a number of steps that happen in the background before your code is executed.
   
-  ###### Step 1.
+  ###### Step 1. Writing
+  Before any code can be run, it has to be written. Most of the time this is done in a chosen source code.
   
+  ###### Step 2. Compilation
+  After the code is written it must be compiled. Compiling is the process of converting the programs code (the source code) into another programming laguage (the target language). This is usually, but not always, the process of turning high level code like a program written in C++ into low level code, most commonly machine code.
+  
+  ###### Step 3.
   
  
