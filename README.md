@@ -55,21 +55,23 @@
   
   Now you have a possible solution, you need to test it. If the solution fixes the bug and doesn't introduce any new bugs into the code, your solution was succesful and the debugging process is complete. If it does not correct it or introduces new errors you need to repeat these steps until the bug is corrected.
   
-  
-
-  ##### 4. Advantages of using an IDE
+  ##### Advantages of debugging using an IDE
   
   Using an IDE has many advantages over using a normal text editor. Firstly, a normal text editor has no way to assist you if you were to make a spelling or a syntax error. When using an IDE, it can have the language you are writing in stored so that it can predidct what you are trying to type and offer you a possible end to your line of code. It can also tell you when it is expecting to see a ';' or other syntax and tell you what line it is missing from. 
   
-  Another advantage of using an IDE is that most IDE's have a way to run your code built into the software itself, this can save time on having to run your code in another program.
+  IDEs also offer other debugging features that make the process easier or faster, these are as follows:
  
-  ##### 5. Why Coding Standards Are Important
+  ###### Realtime Editing and Running
+  Some IDEs allow you to edit your code while it is running, this allows you to see the real time results of the changes you have made. This is useful because it can help you save time and try out more possible solutions alot faster than if you had to compile and run the code independantly.
   
-  Coding standards refer to the different ways in which you can wirte code that doesn't impact how the code itself runs, coding standards are cosmetic only. 
+  ###### Change Variable Values While Running
+  Aditionally, some IDEs also allow you to change the value of variables manually while the code is running. This is useful because it allows a developer to test how their code works at multiple stages or with invalid inputs in real time. It also saves time for the same reasons stated above.
   
-  As a team, using the same coding standard is important to keep your code consistent.
+  ###### Skip or Repeat Sections Of Code
+  IDEs offer the user tools that let them isolate snippits of their code from the rest of the program. This lets the developer quickly make theoretical changes to individual sections of the code without having to edit the whole program or create a new document and copy the snippet into that new document. If the changes he/she makes are benificial, they can simply reintroduce the snipped to the main body of code. If it doesn't then the changes can be easily erased.
   
-  ##### 6. The Process of Building an Application
+  
+  ##### 4. The Process of Building an Application
   
   ###### Step 1. Assemble a team (or decide to work alone)
   Firstly you must decide on who will be working with you on this project, make phonecalls or arange meetings with a designer or a developer and try and get them on board. Alternatively, you can chose to undertake the project alone, but be aware that it will be a lot of work.
@@ -92,7 +94,7 @@
   ###### Step 7. Post Launch Support
   After launch is important to collect regular feedback from your users so you can fix any bugs that arise or introduce new features that are highly requested.
   
-  ##### 7. What Is The Process from Writing Code to Execution
+  ##### 5. What Is The Process from Writing Code to Execution
   
   After you write your code, there are a number of steps that happen in the background before your code is executed.
   
