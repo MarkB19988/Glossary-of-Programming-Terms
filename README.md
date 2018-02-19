@@ -16,9 +16,13 @@
   * Easy to follow the structure and logic of the program
   * The Code is easier to edit and maintain
   
+  This paradigm is usually how you expect a computer or a application to function, you provide the computer a set of step by step instructions and the computer carries them out in order. This makes procedural programming very intuitive however can sometimes be more time consuming when creating more complex functions 
+  
   ###### Object Oriented Paradigm
    
-  Object oriented programming is the idea/concept of using objects that can contain data in the form of fields and code in the form of methods. A key feature of objects is that they can aceess and edit the data fields of other objects that they are linked to.
+  Object oriented programming is the idea/concept of using objects that can contain data in the form of fields and code in the form of methods. A key feature of objects is that they can aceess and edit the data fields of other objects that they are linked to. A method in object-oriented programming is similar a procedure in procedural programming. The main difference between the two is that a method is part of an object. In object-oriented programming, you create objects and give them properties. For example, a person can be seen as the object and every person has a name, age, sex ect. These are it's properties
+  
+  As both data and methods are combined into one object, this allows you to create mroe complex functions and programs with less code as you can re-use blueprints of objects multiple times.
   
   ###### Event Driven Paradigm
    
