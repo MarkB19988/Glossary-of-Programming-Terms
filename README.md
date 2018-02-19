@@ -26,7 +26,12 @@
   
   ###### Event Driven Paradigm
    
-  Event Driven programming is idea/concept that the program will run by recting to user inputs. It can react to different kinds of input, like a button click, choosing from a drop down list, entering text into a text box, and many other kinds of inputs.
+  Event Driven programming is idea/concept that the program will run by recting to user inputs. It can react to different kinds of input, like a button click, choosing from a drop down list, entering text into a text box, and many other kinds of inputs. Event Driven programming is very similar and usually implements features of object oriented programming. This is because in GUIs (Graphical User Interfaces) an object, for example a button, is listening out for and input from the user. However, it is important to remember that just becasue alot of event driven programs are also object oriented, does not mean that the opposite is also true.
+  
+  The advantage of Event Driven Programming is in the ability to create more interactive programs because of how easy it is to listen for user inputs and to execute code in reaction to the input.
+  
+  However a big disadvantage is that event loops take up alot of processing power, this is why the event driven paradigm is not often used for large applications, as the processing power required would be to high for most systems to run smoothly.
+  
   
   ##### 3. Debugging Process
   
