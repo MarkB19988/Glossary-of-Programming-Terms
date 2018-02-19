@@ -39,19 +39,19 @@
   
   The process of debugging is as follows:
   
-  1. Find and Describe the bug
+  ###### 1. Find and Describe the bug
   
   Although not a part of the process itself, in order to fix a bug you need to find one in the first place. A good place to start is using unit testing to find errors and bugs in small sections of code. Once found you have to describe what is going wrong.
   
-  2. Reproduce and Snapshot
+  ###### 2. Reproduce and Snapshot
   
   Once a bug is found, you must next try to reproduce the bug when you run the program again. Once the bug happens, you need to 'snapshot' the bug. This involves you finding out the state of your code at the time of the bug (e.g. The values of variables, which function is running?) 
   
-  3. Analyse the Snapshot
+  ###### 3. Analyse the Snapshot
   
   Once you have the snapshot, you can use this information to dig deeper into the code and see if individual functions are producing the error. Once you identify a possible cause, you can begin to test possible solutions.
   
-  4. Test Solution(s)
+  ###### 4. Test Solution(s)
   
   Now you have a possible solution, you need to test it. If the solution fixes the bug and doesn't introduce any new bugs into the code, your solution was succesful and the debugging process is complete. If it does not correct it or introduces new errors you need to repeat these steps until the bug is corrected.
   
