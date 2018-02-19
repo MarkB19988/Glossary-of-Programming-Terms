@@ -94,7 +94,7 @@
   ###### Step 7. Post Launch Support
   After launch is important to collect regular feedback from your users so you can fix any bugs that arise or introduce new features that are highly requested.
   
-  ##### 5. What Is The Process from Writing Code to Execution
+  ##### 7. What Is The Process from Writing Code to Execution
   
   After you write your code, there are a number of steps that happen in the background before your code is executed.
   
