@@ -3,7 +3,7 @@
 
 ##### 1. Algorithm
 
-  An algorithm is a set of (mathematiacal) instructions that are used to complete a task or to solve a problem
+  An algorithm is a set of instructions that are used to complete a task or to solve a problem.
    
 ##### 2. Programming Paradigms
 
