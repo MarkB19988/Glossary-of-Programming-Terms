@@ -55,7 +55,7 @@
   
   Now you have a possible solution, you need to test it. If the solution fixes the bug and doesn't introduce any new bugs into the code, your solution was succesful and the debugging process is complete. If it does not correct it or introduces new errors you need to repeat these steps until the bug is corrected.
   
-  ##### Advantages of debugging using an IDE
+  ##### Debugging Facilities available in IDE
   
   Using an IDE has many advantages over using a normal text editor. Firstly, a normal text editor has no way to assist you if you were to make a spelling or a syntax error. When using an IDE, it can have the language you are writing in stored so that it can predidct what you are trying to type and offer you a possible end to your line of code. It can also tell you when it is expecting to see a ';' or other syntax and tell you what line it is missing from. 
   
