@@ -16,7 +16,7 @@
   * Easy to follow the structure and logic of the program
   * The Code is easier to edit and maintain
   
-  This paradigm is usually how you expect a computer or a application to function, you provide the computer a set of step by step instructions and the computer carries them out in order. This makes the Procedural Pradigm very intuitive however it can sometimes be more time consuming when creating more complex functions
+  This paradigm differs from step by step instructions as you can program the computer to make decisions and call sets of instructions multiple times whenver it is needed.
   
   ###### Object Oriented Paradigm
    
