@@ -33,7 +33,8 @@
   However a big disadvantage is that event loops take up alot of processing power, this is why the event driven paradigm is not often used for large applications, as the processing power required would be to high for most systems to run smoothly.
   
   ###### Relationship Between Them
-  All of the paradigms are trying to acheive the same outcome in different ways. They are all trying to help implement some form of solution to the problem that the user is having. The differences come in how they do it. For example each paradigm has their own version of functions but has different ways of implementing them. Procedural just calls the functions when asked, Event Driven links function to a user event and Object Orientated links the function to an object through class and other methods.
+  
+The relationship between each of these paradigms is that they are all based around functions and they all implement them in different ways For example, Procedural just calls the functions when asked, Event Driven links function to a user event and Object Orientated links the function to an object through class and other methods.
   
   
   ##### 3. Debugging Process
