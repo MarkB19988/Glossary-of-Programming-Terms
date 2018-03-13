@@ -73,12 +73,12 @@
   
   ##### 4. The Process of Building an Application
   
-  ###### Step 1. Assemble a team (or decide to work alone)
-  Firstly you must decide on who will be working with you on this project, make phonecalls or arange meetings with a designer or a developer and try and get them on board. Alternatively, you can chose to undertake the project alone, but be aware that it will be a lot of work.
+  ###### Step 1. Meet With The Client
+  Firstly you must meet with the client a discuss what they want from their application. During this time you must also discuss deadlines and possible payment for the work. It is common to sign a contract at this stage if money is involved.
   
-  ###### Step 2. Wireframing
-  Wireframing is a rough visual idea of what your app will look like. Each wireframe sketch should show what will happen on every possible screen/scene of your app and what interactions could be had (e.g. arrows to show something can move across the screen)
-  
+  ###### Step 2. Assemble a team (or decide to work alone)
+  now you must decide on who will be working with you on this project, make phonecalls or arange meetings with a designer or a developer and try and get them on board. Alternatively, you can chose to undertake the project alone, but be aware that it will be a lot of work.
+
   ###### Step 3. Design
   Next you must create solid, final design documentation and conecpt art that will clearly explain and show the features the app will have. Concept images should be as close to how you want the app to look as possible. In your documentation you can talk about different colours, fonts, features ect.
   
@@ -88,11 +88,10 @@
   ###### Step 5. Testing
   Testing is important to make sure that you havent left any bugs or errors in your app and that it works as intended. Testing can also be done along side development to correct any errors as they surface but it is always good to do a final 'beta test' before realease to make sure the whole game works correctly
   
-  ###### Step 6. Launch
-  Once all of the above has been completed you can go ahead an release your app on your chosen platform. Be aware that some platforms may have fees for putting an app on the store.
+  ###### Step 6. Deliver to the Client
+  Once all of the above has been completed you can go ahead and deliver your app to the client
   
-  ###### Step 7. Post Launch Support
-  After launch is important to collect regular feedback from your users so you can fix any bugs that arise or introduce new features that are highly requested.
+
   
   ##### 7. What Is The Process from Writing Code to Execution
   
