@@ -63,16 +63,19 @@
   Using an IDE has many advantages over using a normal text editor. Firstly, a normal text editor has no way to assist you if you were to make a spelling or a syntax error. When using an IDE, it can have the language you are writing in stored so that it can predidct what you are trying to type and offer you a possible end to your line of code. It can also tell you when it is expecting to see a ';' or other syntax and tell you what line it is missing from. 
   
   IDEs also offer other debugging features that make the process easier or faster, these are as follows:
+  
+  ###### Step Into and Step Over
+  IDEs offer the user certain commands that let them isolate snippits of their code from the rest of the program. This lets the developer quickly make theoretical changes to individual sections of the code without having to edit the whole program or create a new document and copy the snippet into that new document. 
+  
+  'Step Over' commands will call the function and return, pausing the debugger on the line of code after the function.
+  
+  'Step Into' commands  will call the function and pause the debugger on the first line of code inside the function.
  
   ###### Realtime Editing and Running
   Some IDEs allow you to edit your code while it is running, this allows you to see the real time results of the changes you have made. This is useful because it can help you save time and try out more possible solutions alot faster than if you had to compile and run the code independantly.
   
   ###### Change Variable Values While Running
-  Aditionally, some IDEs also allow you to change the value of variables manually while the code is running. This is useful because it allows a developer to test how their code works at multiple stages or with invalid inputs in real time. It also saves time for the same reasons stated above.
-  
-  ###### Skip or Repeat Sections Of Code
-  IDEs offer the user tools that let them isolate snippits of their code from the rest of the program. This lets the developer quickly make theoretical changes to individual sections of the code without having to edit the whole program or create a new document and copy the snippet into that new document. If the changes he/she makes are benificial, they can simply reintroduce the snipped to the main body of code. If it doesn't then the changes can be easily erased.
-  
+  Aditionally, some IDEs also allow you to change the value of variables manually while the code is running. This is useful because it allows a developer to test how their code works at multiple stages or with invalid inputs in real time. It also saves time for the same reasons stated above
   
   ##### 4. The Process of Building an Application
   
