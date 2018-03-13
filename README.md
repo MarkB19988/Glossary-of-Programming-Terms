@@ -35,6 +35,14 @@
   ###### Relationship Between Them
   
 The relationship between each of these paradigms is that they are all based around functions and they all implement them in different ways. For example, Procedural just calls the functions when asked, Event Driven links function to a user event and Object Orientated links the function to an object through class and other methods. Each of these paradigms is an almost an evolution of the one that came before it as they all expand on the idea of implementing functions.
+
+All of the paradigms deal with the following:
+
+Input/Output
+Variables
+Repetition
+Decisions
+Data Structures
   
   
   ##### 3. Debugging Process
