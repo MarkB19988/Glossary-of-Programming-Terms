@@ -65,7 +65,7 @@
   IDEs also offer other debugging features that make the process easier or faster, these are as follows:
   
   ###### Step Into and Step Over
-  IDEs offer the user certain commands that let them isolate snippits of their code from the rest of the program. This lets the developer quickly make theoretical changes to individual sections of the code without having to edit the whole program or create a new document and copy the snippet into that new document. 
+  IDEs offer the user certain commands that let you isolate snippits of their code from the rest of the program. This lets the developer quickly make theoretical changes to individual sections of the code without having to edit the whole program or create a new document and copy the snippet into that new document. 
   
   'Step Over' commands will call the function and return, pausing the debugger on the line of code after the function.
   
