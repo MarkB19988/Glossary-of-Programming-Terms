@@ -9,7 +9,7 @@
 
   ###### Procedural Paradigm
    
- The Procedural Paradigm is the idea/concept of using procedures. A procedure (also knows as a routine) is a set of commands that can be called from any point in the program if it is needed. They differe from instructions as they don't have to be followed if they are not called.
+ The Procedural Paradigm is the idea/concept of using procedures. A procedure (also knows as a routine) is a set of commands that can be called from any point in the program if it is needed. They differ from instructions as they don't have to be followed if they are not called.
   
   The Procedural Paradigm is very common to see, especially in larger projects as it has the following benefits:
   * Re-Using sections of code without re-typing it
